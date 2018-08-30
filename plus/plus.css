@@ -1,0 +1,16 @@
+.window{
+    width: 500px;
+    overflow: hidden;
+    margin: 20px auto;
+}
+
+#images{
+    display: flex;
+    align-items: flex-start;
+    
+    transition: 0.5s all;
+}
+
+#buttons{
+    text-align: center;
+}
